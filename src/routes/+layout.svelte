@@ -1,3 +1,7 @@
+<script>
+  import '../app.css'
+</script>
+
 <nav>
   <div>
     <h2>Events App</h2>
